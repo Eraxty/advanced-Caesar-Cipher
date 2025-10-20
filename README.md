@@ -12,12 +12,6 @@ A Python implementation of the classic Caesar cipher with encryption, decryption
 - ✅ **Easy-to-use Python API** for integration
 - ✅ **Educational examples** and documentation
 
-## Installation
-
-```bash
-git clone https://github.com/yourusername/caesar-cipher-tool.git
-cd caesar-cipher-tool
-```
 ## Quick Start
 
 ```bash
